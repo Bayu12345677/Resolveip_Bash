@@ -2,6 +2,9 @@
 
 Bash.import: text_display/string
 
+#############
+# mode bold #
+#############
 mode.bold:(){
 	local color=$1
 
