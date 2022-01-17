@@ -90,5 +90,7 @@ sys::var:(){
 
 shopt -s expand_aliases
 
-alias class:="$@(){"
-alias end="}"
+: '
+    2022/01/17
+    create : polygon
+'
