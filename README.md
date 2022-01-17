@@ -6,7 +6,7 @@
 [![](https://img.shields.io/github/forks/Bayu12345677/Resolveip_Bash?logo=dash)](https://github.com/Bayu12345677)
 [![](https://img.shields.io/github/stars/Bayu12345677/Resolveip_Bash?logo=debian&color=yellow)](https://github.com/Bayu12345677)
 [![](https://img.shields.io/github/license/Bayu12345677/Resolveip_Bash?logo=archlinux&color=greencyan)](https://github.com/Bayu12345677)
-[![](https://img.shields.io/static/v1?label=code&message=open%20source&color=cyan&logo=dash)](https://github.com/Bayu12345677)
+[![](https://img.shields.io/static/v1?label=open&message=source&color=cyan&logo=dash)](https://github.com/Bayu12345677)
 <br><br>
 <h1 align="left">
   How to use
