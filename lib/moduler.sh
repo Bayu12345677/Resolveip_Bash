@@ -6,8 +6,13 @@ ll_me="\e[91m"
 ll_ku="\e[94m"
 ll_cy="\e[96m"
 ll_st="\e[00m"
+
+# fix error pwd
+# 2022/01/17
+# fix by : bayu riski (polygon)
+
 sys::@file(){
-	local __ll__str_arg="$(pwd)/lib/$1"
+	local __ll__str_arg="lib/$1"
 
 #    local patch__ll__=$( cd "$(pwd)/${BASH_SOURCE[0]%/*}" )
 
